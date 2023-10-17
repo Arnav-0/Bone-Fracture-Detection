@@ -112,7 +112,3 @@ We'd like to thank the following people for their major contributions:
 ## Acknowledgments
 
 - Thank anyone who helped, inspired, or provided resources for the project.
-
-
----
-# Bone-Fracture-Detection
