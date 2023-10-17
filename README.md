@@ -12,7 +12,8 @@ A Deep learning-based solution for detecting bone fractures from medical images.
 - [Usage](#usage)
 - [Dataset](#dataset)
 - [Results](#Results)
-- [Contributing](#contributing)
+- [GUI](#GUI)
+- [Contributors](#contributors)
 - [Acknowledgments](#acknowledgments)
 
 ## Introduction
